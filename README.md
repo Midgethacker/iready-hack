@@ -26,5 +26,6 @@ A bookmarklet can be used instead of the chrome extension, incase your school ha
 
 # Extra
 
-credit to ArjhanToteck for originally making this but since his got deleted and he never updated anyways i decided to steal it
+credit to ArjhanToteck for originally making this but his got deleted
+
 also sometimes the lesson skipper doesnt work so just refresh the page and try again

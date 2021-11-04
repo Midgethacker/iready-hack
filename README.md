@@ -1,5 +1,5 @@
 # iReady-Overload
-iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable, for an hour every single week. This repository is a collection of hacks that ensure nobody has to suffer through iReady ever again. The current version has a lesson and quiz skipper and a minutes hack, planning on adding more soon but its like 2 am as im typing this and i cant be bothered to add anything else right now
+iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks that ensure nobody has to suffer through iReady ever again. The current version has a lesson and quiz skipper and a minutes hack. If you want to suggest something you can make an issue
 
 
 # How to use/install
@@ -22,7 +22,9 @@ lol()
 # Bookmarklet
 
 A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, highlight all of the text and drag it onto your bookmark bar. This will create a boomark you can press while on the iReady website to open the iReady Overload menu.
+(you also have to open a new chrome tab, right click the bookmark bar and click "show bookmarks bar")
 
 # Extra
 
 credit to ArjhanToteck for originally making this but since his got deleted and he never updated anyways i decided to steal it
+also sometimes the lesson skipper doesnt work so just refresh the page and try again

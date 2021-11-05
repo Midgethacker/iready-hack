@@ -27,4 +27,5 @@ A bookmarklet can be used instead of the chrome extension, incase your school ha
 # Extra
 credit to ArjhanToteck for originally making this (but he deleted his)
 
-as shown below iReady's developer team has hilariously banned the text "iReady Overload" from their site so chances are they're reading this right now ![](https://cdn.discordapp.com/attachments/654687165837475840/905968971642179645/unknown.png)
+as shown below iReady's developer team has hilariously banned the text "iReady Overload" from their site so chances are they're reading this right now
+![](https://cdn.discordapp.com/attachments/654687165837475840/905968971642179645/unknown.png)

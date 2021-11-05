@@ -21,11 +21,10 @@ lol()
 
 # Bookmarklet
 
-A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, open the [raw bookmarklet](https://raw.githubusercontent.com/cupiditys/iReady-Overload/main/bookmarklet.txt), and then highlight all of the text and drag it onto your bookmark bar. This will create a boomark you can press while on the iReady website to open the iReady Overload menu.
+A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, open the [raw bookmarklet](https://raw.githubusercontent.com/cupiditys/iReady-Overload/main/bookmarklet.txt), and then highlight all of the text and drag it onto your bookmark bar. This will create a bookmark you can press while on the iReady website to open the iReady Overload menu.
 (you also have to open a new chrome tab, right click the bookmark bar and click "show bookmarks bar")
 
 # Extra
+credit to ArjhanToteck for originally making this (but he deleted his)
 
-credit to ArjhanToteck for originally making this but his got deleted
-
-also sometimes the lesson skipper doesnt work so just refresh the page and try again
+as shown below iReady's developer team has hilariously banned the text "iReady Overload" from their site so chances are they're reading this right now ![](https://cdn.discordapp.com/attachments/654687165837475840/905968971642179645/unknown.png)

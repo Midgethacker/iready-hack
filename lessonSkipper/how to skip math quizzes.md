@@ -24,4 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/66990287/143671217-f8a5f63e-5fe9-4c52-aacb-4206d6bc2246.png)
 
-(you may need to answer the last question as well)
+9. copy it, and then press the x in the top right of the lesson to close the lesson
+
+10. press the console tab at the top
+
+11. paste it in, and press enter
+
+12. if it says "Promise pending" or whatever, then you've done it correctly. sometimes you may need to open the quiz and complete the last question

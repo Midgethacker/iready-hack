@@ -25,6 +25,12 @@
 
 ![image](https://user-images.githubusercontent.com/66990287/143670282-59955a92-911b-4d1b-a557-cfde4d732ae1.png)
 
+**IF ITS A QUIZ YOU ALSO NEED TO ADD ",1" FOR EVERY FALSE VALUE IN "AllScoreDataArr", LIKE SHOWN BELOW**
+
+![image](https://user-images.githubusercontent.com/66990287/143670758-2edb97cd-2c52-4733-b5ad-92e2047a4a5f.png)
+
+![image](https://user-images.githubusercontent.com/66990287/143671217-f8a5f63e-5fe9-4c52-aacb-4206d6bc2246.png)
+
 9. copy it, and then press the x in the top right of the lesson to close the lesson
 
 10. press the console tab at the top

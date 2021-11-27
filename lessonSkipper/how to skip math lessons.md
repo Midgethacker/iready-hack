@@ -1,4 +1,4 @@
-# Math lessons
+# Skip lessons (2nd method)
 1. open lesson
 
 2. CTRL+SHIFT+I to open inspect element
@@ -17,7 +17,7 @@
 
 (![image](https://cdn.discordapp.com/attachments/651943340245516292/914031560972464158/unknown.png)
 
-7. paste it into any text editor (notepad), and find "slideCompletedArr"
+7. paste it into any text editor (notepad), and find "slideCompletedArr" (if you can't find it, chances are you need to use the other method)
 
 8. change all the "false" values to true
 

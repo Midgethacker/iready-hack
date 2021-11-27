@@ -1,4 +1,4 @@
-# Reading Lesson and Quiz
+# Lessons/Quizzes (method 1)
 
 1. open lesson
 
@@ -20,7 +20,7 @@
 
 7. paste it into any text editor
 
-8. set **every** "false" value next to "completed" and "finished" to true, like below
+8. set **every** "false" value next to "completed" and "finished" to true, like below (if you can't find it, chances are you need to use the other method)
 
 ![image](https://user-images.githubusercontent.com/66990287/143671172-060f8f8f-f9ec-493b-8983-03139b1de0ca.png)
 

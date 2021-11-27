@@ -17,7 +17,7 @@
 
 (![image](https://cdn.discordapp.com/attachments/651943340245516292/914031560972464158/unknown.png)
 
-7. paste it into any text editor, and find "slideCompletedArr"
+7. paste it into any text editor (notepad), and find "slideCompletedArr"
 
 8. change all the "false" values to true
 

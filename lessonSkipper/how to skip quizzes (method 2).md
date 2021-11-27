@@ -1,4 +1,4 @@
-# Math quizzes
+# Quizzes (method 2)
 1. open quiz
 
 2. CTRL+SHIFT+I to open inspect element

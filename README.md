@@ -17,12 +17,11 @@ A bookmarklet can be used instead of the chrome extension, incase your school ha
 # How to avoid being AFK-kicked
 press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter
 ```
+setInterval(lol, 60000)
 function lol() {
-document.getElementById("btn-footer-MY_PROGRESS").click()
-document.getElementById("btn-footer-TO_DO").click()
-setTimeout(() => lol(), 60000);
+    document.getElementById("btn-footer-MY_PROGRESS").click()
+    document.getElementById("btn-footer-TO_DO").click()
 }
-lol()
 ```
 
 # Extra

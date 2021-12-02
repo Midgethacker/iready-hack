@@ -11,8 +11,17 @@ then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the pa
 
 # Bookmarklet
 
-A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this, open the [raw bookmarklet](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt), and then highlight all of the text and drag it onto your bookmark bar. This will create a bookmark you can press while on the iReady website to open the iReady Overload menu.
-(you also have to open a new chrome tab, right click the bookmark bar and click "show bookmarks bar")
+A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this:
+
+1. Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
+2. Click on more at the bottom left corner
+3. Delete everything in the url box
+4. Type javascript:
+5. Paste in the following code
+```fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vY3VwaWRpdHlzL3Jhdy91cGxvYWQvdjE2MzgzNDExMjEvYm9va21hcmtsZXQuanM=')).then((res) => res.text().then((t) => eval(t)))```
+(this will auto-update)
+
+Alternatively, you can use [this version](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt) if the other one is not working for whatever reason (this one will not auto-update)
 
 # How to avoid being AFK-kicked
 press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter

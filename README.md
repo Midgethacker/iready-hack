@@ -23,7 +23,7 @@ A bookmarklet can be used instead of the chrome extension, in case your school h
 3. Delete everything in the URL box
 4. Type javascript:
 5. Paste in the following code
-```javascript:fetch(`https://res.cloudinary.com/cupiditys/raw/upload/v${Math.floor(Math.random() * (999999 - 999) + 999)}/bookmarklet.js`).then((res) => res.text().then((t) => eval(t)))```
+```fetch(`https://res.cloudinary.com/cupiditys/raw/upload/v${Math.floor(Math.random() * (999999 - 999) + 999)}/bookmarklet.js`).then((res) => res.text().then((t) => eval(t)))```
 (this will auto-update)
 
 Alternatively, you can use [this version](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt) if the other one is not working for whatever reason (this one will not auto-update)

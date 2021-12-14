@@ -1,11 +1,5 @@
 <p align="center"><img src="logo.jpg" alt="anti-iready-logo" width="73%" height="70%"/></p>
 
-<div align ="center">
-<img src="https://img.shields.io/github/downloads/cupiditys/iReady-Overload/total" alt="downloads"/>
-<img src="https://img.shields.io/github/repo-size/cupiditys/iReady-Overload" alt="files-size"/>
-<img src="https://img.shields.io/github/issues/cupiditys/iReady-Overload" alt="issues"/>
-</div>
-
 <h1 align="center">iReady Overload</h1>
 
 iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a **lesson & quiz skipper, a diagnostic hack, and a minutes hack**. 
@@ -20,7 +14,7 @@ Download the chrome extension by clicking [here (releases tab)](https://github.c
 Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below)
 then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good
 
-### Bookmarklet
+## Bookmarklet
 
 A bookmarklet can be used instead of the chrome extension, in case your school has blocked extensions. To do this:
 

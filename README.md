@@ -15,7 +15,7 @@ As of 12/4, GitHub says this repo has ~14,000 downloads meaning 14,000 fewer peo
 ## How to use/install
 
 ### Using the extension
-Download the chrome extension by clicking [here](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)
+Download the chrome extension by clicking [here](https://github.com/cupiditys/iReady-Overload/releases) or [here](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true) if the first one doesn;t work.
 
 Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below)
 then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good

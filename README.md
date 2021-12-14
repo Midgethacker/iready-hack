@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.jpg" alt="anti-iready-logo" width="65%" height="63%"/>
+<img src="logo.jpg" alt="anti-iready-logo" width="73%" height="70%"/>
 </p>
 
 <h1 align="center">iReady-Overload</h1>

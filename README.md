@@ -8,13 +8,12 @@ As of 12/4, GitHub says this repo has ~14,000 downloads meaning 14,000 fewer peo
 
 ## How to use/install
 
-### Using the extension
-Download the chrome extension by clicking [here (releases tab)](https://github.com/cupiditys/iReady-Overload/releases) or [here (mirror latest download)](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)
+### Chrome Web Store
+You can now hilariously download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
 
-Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below)
-then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good
+The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above, see the methods below
 
-## Bookmarklet
+### Bookmarklet
 
 A bookmarklet can be used instead of the chrome extension, in case your school has blocked extensions. To do this:
 
@@ -27,6 +26,11 @@ A bookmarklet can be used instead of the chrome extension, in case your school h
 (this will auto-update)
 
 Alternatively, you can use [this version](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt) if the other one is not working for whatever reason (this one will not auto-update)
+
+### Manually installing extention
+Since google takes ~1-2 days to review updates on the chrome web store, you can manually install the chrome extension to get latest updates by clicking [here (releases tab)](https://github.com/cupiditys/iReady-Overload/releases) or [here (mirror latest download)](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)
+
+Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good
 
 ## How to avoid being AFK-kicked
 press ctrl + shift + i, press console tab at the top and paste the stuff below in, and then press enter

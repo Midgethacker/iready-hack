@@ -4,14 +4,14 @@
 
 iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a **lesson & quiz skipper, a diagnostic hack, and a minutes hack**. 
 
-As of 12/4, GitHub says this repo has ~14,000 downloads meaning 14,000 fewer people have to use iReady. Problem is, that barely makes a dent in iReady's 10,000,000+ students (0.0014%). If your school uses iReady, recommend this extension. They'll thank you. 
+As of 1/14, this extension has ~26,000 users meaning 26,000 fewer people have to use iReady. Problem is, that barely makes a dent in iReady's 10,000,000+ students (0.0026%). If your school uses iReady, recommend this extension. They'll thank you. 
 
 ## How to use/install
 
 ### Chrome Web Store
 You can now hilariously download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
 
-The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above, see the method below
+The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above or it's blocked for you, see the method below
 
 ### Bookmarklet
 

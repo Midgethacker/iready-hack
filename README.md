@@ -4,28 +4,7 @@
 
 ## How to use/install
 
-### Chrome Web Store
-You can now download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
-
-The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above or it's blocked for you, see the method(s) below
-
-### Manually installing extention
-You can also manually install the chrome extension by clicking [here (releases tab)](https://github.com/cupiditys/iReady-Overload/releases) or [here (mirror latest download)](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)
-Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page
-
-### Bookmarklet
-
-A bookmarklet can be used instead of the chrome extension, in case your school has blocked extensions. To do this:
-
-1. Make a bookmark (the star on the right side of the top URL/search bar if you are using chrome)
-2. Click on more at the bottom left corner
-3. Delete everything in the URL box
-4. Type javascript:
-5. Paste in the following code
-```fetch(`https://res.cloudinary.com/cupiditys/raw/upload/v${Math.floor(Math.random() * (999999 - 999) + 999)}/bookmarklet.js`).then((res) => res.text().then((t) => eval(t)))```
-(this will auto-update)
-
-Alternatively, you can use [this version](https://github.com/cupiditys/iReady-Overload/blob/main/bookmarklet.txt) if the other one is not working for whatever reason (this one will not auto-update)
+For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install)
 
 ## Disclaimers
 <details>

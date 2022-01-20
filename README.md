@@ -5,7 +5,7 @@
 ## How to use/install
 
 ### Chrome Web Store
-You can now hilariously download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
+You can now download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
 
 The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above or it's blocked for you, see the method below
 

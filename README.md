@@ -7,7 +7,7 @@
 ### Chrome Web Store
 You can now download the extension on the chrome web store [here](https://chrome.google.com/webstore/detail/iready-overload/ddpalhmjafimblgfecimmdeafainoapp)
 
-The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above or it's blocked for you, see the method below
+The installation is very simple, just click add to chrome and open i-ready. If your browser doesn't support the above or it's blocked for you, see the method(s) below
 
 ### Manually installing extention
 You can also manually install the chrome extension by clicking [here (releases tab)](https://github.com/cupiditys/iReady-Overload/releases) or [here (mirror latest download)](https://github.com/cupiditys/iReady-Overload/blob/main/chromeExtension.zip?raw=true)

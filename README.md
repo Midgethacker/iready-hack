@@ -19,18 +19,8 @@ iReady is awful. It's the worst education tool anyone could ever use. I'm fed up
 while (obviously) I try my hardest to prevent you from getting in trouble, there are some things you need to know in order to not get caught. First, I heavily do not recommend using it in school (as they can see all your network traffic) or even on a school issued laptop (only do it if you have to). If want to be very safe, use your own personal computer at your own home.
 </details>
 
-## How to avoid being AFK-kicked
-press ctrl + shift + i, press console tab at the top and paste the stuff below in, and then press enter
-```
-setInterval(lol, 60000)
-function lol() {
-    document.getElementById("btn-footer-MY_PROGRESS").click()
-    document.getElementById("btn-footer-TO_DO").click()
-}
-```
-
-## Credits
-Credit to ArjhanToteck for originally making this (but he deleted his)
+## Extra
+Credit to ArjhanToteck for being the original creator
 
 As shown below iReady's developer team has hilariously banned the text "iReady Overload" from their site so chances are they're reading this right now
 

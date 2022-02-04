@@ -15,7 +15,7 @@ iReady is awful. It's the worst education tool anyone could ever use. I'm fed up
 </details>
     
 <details>
-<summary><b>READ THIS</b></summary>
+<summary><b>Other Info</b></summary>
 while (obviously) I try my hardest to prevent you from getting in trouble, there are some things you need to know in order to not get caught. First, I heavily do not recommend using it in school (as they can see all your network traffic) or even on a school issued laptop (only do it if you have to). If want to be very safe, use your own personal computer at your own home.
 </details>
 

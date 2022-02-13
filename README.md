@@ -2,7 +2,7 @@
 
 <h1 align="center">iReady Overload</h1>
 
-As of 2/1, this extension has ~50,000 users meaning 50,000 fewer people have to use iReady. Problem is, that barely makes a dent in iReady's 10,000,000+ students (0.005%). If your school uses iReady, recommend this extension. They'll thank you. 
+As of 2/1, this extension has ~50,000 users meaning 50,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (5%). If your school uses i-Ready, recommend this extension. They'll thank you. 
 
 ## How to use/install
 

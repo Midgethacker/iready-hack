@@ -29,3 +29,7 @@ As shown below iReady's developer team has hilariously banned the text "iReady O
 They also added this :trollface:
 
 ![](https://cdn.discordapp.com/attachments/571058554216120322/911811161081671730/unknown.png)
+
+also, the #1 related search for iready is iready overload
+
+![unknown](https://user-images.githubusercontent.com/66990287/155582445-c6d5471d-7864-4f17-b912-463645067b8c.jpg)

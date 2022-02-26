@@ -2,9 +2,11 @@
 
 <h1 align="center">iReady Overload</h1>
 
-<a href="https://discord.gg/y7X5CSWyR5">
-	<img src="https://img.shields.io/discord/946493443763490846?label=discord&logo=discord">
-</a>
+<p align="center">
+        <a href="https://discord.gg/y7X5CSWyR5">
+	       <img src="https://img.shields.io/discord/946493443763490846?label=discord&logo=discord">
+        </a>
+</p>
 
 As of 2/14, this extension has ~70,000 users meaning 70,000 fewer people have to use iReady. Problem is, that barely makes a dent in i-Ready's 10,000,000+ students (0.7%). If your school uses i-Ready, recommend this extension. They'll thank you. 
 

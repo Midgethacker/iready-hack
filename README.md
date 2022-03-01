@@ -15,7 +15,9 @@ As of 2/14, this extension has ~70,000 users meaning 70,000 fewer people have to
 For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install)
 <br/>
 
-The current "diagnostic hack" is [here](https://vault0.netlify.app). Please note this is more of a search function and is not guaranteed to work on every question.
+The current "diagnostic hack" is [here](https://vault0.netlify.app). Please note the following things:
+* this is more of a search function and is not guaranteed to work on every question
+* I do not own this site
 
 ## Disclaimers
 <details>

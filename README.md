@@ -43,7 +43,7 @@ Differences/Changes made from ArjhanToteck's original i-Ready Overload include r
   <details>
   	<summary><b>The script isn't working, what do I do?</b></summary>
 
-  It may be that you have an older version, or that you simply followed the wrong steps. Always check either of these two options before complaining. In the worst case scenario, it might be that the script itself has been patched, but it's not likely to happen for a while. (Please be patient about this.)
+  It may be that you have an old version, or that you simply followed the wrong steps (i.e not putting a colon after javascript in the bookmarklet). Always check either of these two options before complaining. In the worst case scenario, it might be that the script itself has been patched, but it's not likely to happen for a while. (Please be patient about this.)
   </details>
 
   <details>

@@ -15,10 +15,6 @@ As of 3/6, this extension has ~105,000 users (gg on 100k lmao) meaning 105,000 f
 For information on how to install, visit [here](https://github.com/cupiditys/iReady-Overload/wiki/How-to-install)
 <br/>
 
-The current "diagnostic hack" is [here](https://vault0.netlify.app). Please note the following things:
-* this is more of a search function and is not guaranteed to work on every question
-* I do not own this site
-
 ## Disclaimers
 <details>
 <summary><b>Details</b></summary>
@@ -49,7 +45,7 @@ Differences/Changes made from ArjhanToteck's original i-Ready Overload include r
   <details>
   	<summary><b>Is there something like this for other school related programs?</b></summary>
 
-  Probably not, but your best bet would most likely be to use some of the following:
+  you can join the discord and ask for something to be made but your best bet would most likely be to use some of the following:
   <ul>
   	<li>https://botanybay.vercel.app/ (Savvas Realize)</li>
   	<li>https://www.symbolab.com/ (Math related)</li>
